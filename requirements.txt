@@ -26,7 +26,7 @@ psycopg2-binary==2.9.5
 pyparsing==3.0.9
 python-dateutil==2.8.2
 python-dotenv==0.21.1
-six==1.16.0
+six==1.15.0
 SQLAlchemy==1.4.46
 typing_extensions==4.5.0
 Werkzeug==2.2.3
